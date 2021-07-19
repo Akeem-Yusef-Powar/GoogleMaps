@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapTest</string>
+    <string name="marker_details">Marker Address</string>
+    <string name="current_location">Current Location</string>
+</resources>
